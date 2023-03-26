@@ -40,8 +40,8 @@ var tgMsgCount = {
 
 //const minerAddress = '0xA4BE7B9F36495d07a1B1753C38CabC286af53757'; //testnet contract
 //const tokenAddress = '0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7'; //testnet USDT
-const minerAddress = '0x5a3503b609111978d1F5EF7b0Ed42F73916E26fA'; //mainnet contract   
-const tokenAddress = '0x55d398326f99059fF775485246999027B3197955'; //mainnet USDT
+const minerAddress = '0xFF7dA3E1838d23e9193eB4E5fa69d8C684133581'; //mainnet contract   
+const tokenAddress = '0x912CE59144191C1204E64559FE8253a0e49E6548'; //mainnet USDT
 
 var tokenContract;
 var started = true;
